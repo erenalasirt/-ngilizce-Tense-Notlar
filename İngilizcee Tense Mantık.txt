@@ -1,0 +1,57 @@
+Present Simple
+(he/she/It+Verb-s)  (am/is/are)          I read a book every day (Ben hergün kitap okurum)
+Olumsuzu
+(S+doesn't/don't+Verb 1hali)
+/Yaparım/
+
+Past Simple                              I read a book yesterday (Dün kitap okudum)
+(S+didn't+Verb 1.hali)                   
+ 
+/Yaptım/
+ 
+Future Simple
+(S+will+Verb 1.hali)                     I will read a book tomorrow (Yarın kitap okuyacağım)
+Olumsuzu
+(S+won't(vöunt)+verb 1.hali)
+/Yapıcam/
+
+Present Continuous                       I am reading a book now (şuanda kitap okuyorum)
+(S+am/is/are+Verb-ing)
+Olumsuzu                                 
+(S+am/is/are+not+Verb-ing)               I am not reading a book now (şuanda kitap okumuyorum)
+/Yapıyorum/
+
+Past Continuous
+(S+was/were+Verb-ing)                    I was reading a book last night (Dün akşam kitap okuyordum)
+Olumsuzu
+(S+wasn't/weren't+Verb-ing)
+/yapıyordum/
+
+Future Continuous 
+(S+will be+Verb-ing)                     I will be reading a book tomorrow night (yarın kitap okuyor olacağım)
+/yapıyor olacağım/
+
+Present Perfect Tense                    I've bought a new phone (yeni bir telefon aldım)          
+(S+have/has+Verb3.hali)
+/Yaptım/
+
+Past Perfect                             I had left my phone at home               When I arrived at home I'd already had dinner  (eve geldiğimde çoktan akşam yemeğimi yemiştim)
+(S+had+Verb3.hali) 
+/Yapmıştım/
+
+Future Perfect Tense                     When you come,I will have left (sen eve geldiğinde ben evden ayrılmış olacağım)
+(S+will have+Verb3.hali)
+/yapmış olacağım/
+
+Present Perfect Continuous               He has been watching TV for 2 Hours (2 saattir Televizyon seyrediyor)
+(S+have/has+been+Verb-ing) since(sins)
+/Yapıyorum süre belirtecek/
+
+Past Perfect Continuous                  When you came, I had been reading a book for 2 hours (sen eve geldiğinde 2 saattir kitap okuyordum)
+(S+had been+Verb-ing)
+/Yapıyordum sen gelene kadar/
+
+Future Perfect Continuous               When you come to the airport, I will have been waiting for you for3 hours  (sen havaalanına geldiğinde ben seni 3 saattir bekliyor olacağım)  
+(S+will have been+Verb-ing)
+/Sen yaptığında şu kadar süredir yapıyor olacağım/
+
